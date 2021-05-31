@@ -3,6 +3,7 @@
     width: 580px;
     margin-left: 120px;
     padding-bottom: 24px;
+    
 }
 
 .home-content {
@@ -19,6 +20,7 @@
     font-weight: bold;
     line-height: 64px;
     letter-spacing: -0.015em;
+    color: black;
 }
 
 .text-subtitle {
@@ -27,11 +29,12 @@
     font-size: 20px;
     line-height: 36px;
     letter-spacing: -0.015em;
-    color: #5A6774;
+    color: black;
     margin-bottom: 150px;
 }
 
 .btn-home {
-    margin-top: 650px;
-    margin-left: -100px;
+    display:inline-flex;
+    margin-top: 570px;
+    
 }
